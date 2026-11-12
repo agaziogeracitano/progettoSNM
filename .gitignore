@@ -1,0 +1,15 @@
+# ambienti virtuali
+venv/
+venv313/
+__pycache__/
+*.pyc
+
+# segreti
+.env
+
+# output della pipeline (rigenerabile)
+data/
+
+# sistema
+.DS_Store
+Thumbs.db
